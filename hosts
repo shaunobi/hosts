@@ -1,0 +1,11 @@
+# Shaun's list of hosts
+#
+# This hosts file is to block annoying .io games my kids find, among other things.
+# Mainly consumed by Diversion on my ASUSWRT Merlin-flashed router
+#
+# Latest version here: https://raw.githubusercontent.com/shaunobi/hosts/master/hosts
+#
+# ===============================================================
+
+0.0.0.0 01mspmd5yalky8.com
+0.0.0.0 0byv9mgbn0.com
